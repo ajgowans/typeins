@@ -12,7 +12,7 @@ To use it simply copy and paste the below to the bottom of your downloader.ini f
 db_url = https://raw.githubusercontent.com/ajgowans/typeins/db/db.json.zip
 ```
 
-
+If anyone knows of any other preservation projects of type-in software, like Gaming Alexandria's, that could be integrated into the database then please let me know.
 
  ## Programs are downloaded for following systems:
  
