@@ -8,7 +8,7 @@ https://www.gamingalexandria.com/wp/type-in-programs/
 To use it simply copy and paste the below to the bottom of your downloader.ini file (found at: /media/fat/downloader.ini )
 
 ```ini
-[ajgowans/wip]
+[ajgowans/typeins]
 db_url = https://raw.githubusercontent.com/ajgowans/typeins/db/db.json.zip
 ```
 
