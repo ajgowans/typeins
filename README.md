@@ -19,6 +19,7 @@ If anyone knows of any other preservation projects of type-in software, like Gam
  Apple II <br>
  Commodore VIC 20 <br>
  MSX <br>
+ Sharp MZ-700 <br>
  Sord M5 <br>
  
  ## Omitted Programs:
@@ -27,7 +28,6 @@ If anyone knows of any other preservation projects of type-in software, like Gam
 Hitachi BASIC Master Jr. <br>
 NEC PC-8801 <br>
 Nintendo Family BASIC <br>
-Sharp MZ-700 <br>
 
 
  ### The following systems have programs available but there is no corresponding MiSTer core: <br>
