@@ -16,9 +16,9 @@ db_url = https://raw.githubusercontent.com/ajgowans/typeins/db/db.json.zip
 
  ## Programs are downloaded for following systems:
  
- Apple II
- Commodore VIC 20
- MSX
- Sord M5
+ Apple II <br>
+ Commodore VIC 20 <br>
+ MSX <br>
+ Sord M5 <br>
  
  
