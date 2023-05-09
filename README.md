@@ -21,16 +21,17 @@ db_url = https://raw.githubusercontent.com/ajgowans/typeins/db/db.json.zip
  MSX <br>
  Sord M5 <br>
  
- 
-The following systems have programs available but are not downloaded as the relevant MiSTer core does not support the filetype: <br>
+ ## Omitted Programs:
+
+### The following systems have programs available but are not downloaded as the relevant MiSTer core does not support the filetype: <br>
 Hitachi BASIC Master Jr. <br>
 NEC PC-8801 <br>
 Nintendo Family BASIC <br>
 Sharp MZ-700 <br>
 
 
-The following systems have programs available but there is no corresponding MiSTer core: <br>
-Commodore MAX Machine
+ ### The following systems have programs available but there is no corresponding MiSTer core: <br>
+Commodore MAX Machine <br>
 Fujitsu FM-7 <br>
 Fujitsu FM-77 <br>
 Fujitsu FM-8 <br>
@@ -45,18 +46,5 @@ NEC PC-6601 <br>
 NEC PC-8001 <br>
 NEC PC-8001mkII <br>
 Sharp MZ-1500 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
