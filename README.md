@@ -17,6 +17,7 @@ If anyone knows of any other preservation projects of type-in software, like Gam
  ## Programs are downloaded for following systems:
  
  Apple II <br>
+ Commodore MAX Machine (supported in Commodore 64 core)<br>
  Commodore VIC 20 <br>
  MSX <br>
  Sharp MZ-700 <br>
@@ -31,7 +32,6 @@ Nintendo Family BASIC <br>
 
 
  ### The following systems have programs available but there is no corresponding MiSTer core: <br>
-Commodore MAX Machine <br>
 Fujitsu FM-7 <br>
 Fujitsu FM-77 <br>
 Fujitsu FM-8 <br>
