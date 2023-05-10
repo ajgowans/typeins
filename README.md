@@ -20,6 +20,7 @@ If anyone knows of any other preservation projects of type-in software, like Gam
  Commodore MAX Machine (supported in Commodore 64 core)<br>
  Commodore VIC 20 <br>
  MSX <br>
+ Nintendo Family BASIC <br>
  Sharp MZ-700 <br>
  Sord M5 <br>
  
@@ -28,7 +29,6 @@ If anyone knows of any other preservation projects of type-in software, like Gam
 ### The following systems have programs available but are not downloaded as the relevant MiSTer core does not support the filetype: <br>
 Hitachi BASIC Master Jr. <br>
 NEC PC-8801 <br>
-Nintendo Family BASIC <br>
 
 
  ### The following systems have programs available but there is no corresponding MiSTer core: <br>
